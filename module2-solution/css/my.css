@@ -5,7 +5,7 @@
 }
 h1 {
   margin-top: 30px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   text-align: center;
   font-size: 175%;
 
@@ -27,20 +27,20 @@ h2 {
   margin: 0px;
   padding: 0px;
   width: 100%;
-
+  float: left;
 }
 .menuitem {
   position: relative;
   top: 0px;
   right: 0px;
-  margin: 10px;
+  margin: 10px 10px;
 
 }
 .menutext {
   padding: 40px 10px 10px 10px;
   background-color: #999999;
   border: 1px solid black;
-
+  margin: 0px;
 }
 
 .chicken {
